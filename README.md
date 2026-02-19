@@ -1,4 +1,5 @@
 # Build an RPG Character
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://python.org)
 
 This project is a Python lab that practices core programming concepts by building a function capable of creating and validating an RPG character.
 
